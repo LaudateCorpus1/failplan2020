@@ -1,6 +1,10 @@
-# Information about specific services
+# FailPlan 2020
 
-This is based on experience over the last couple of weeks. Obviously it's just best efforts!
+This is intended as a (hopefully) more useful set of FAQs for the [RailPlan 2020 problems](https://www.railplan2020.com/timetables). Not affiliated with GTR, obviously.
+
+For the general questions, see the [main page](/).
+
+This page has a some information on specific services based on experience over the last couple of weeks. Obviously it's just best efforts! If you'd like to add something, [email me](mailto:ganesh@earth.li), or if you're familiar with GitHub, send me a [pull request](https://github.com/hsenag/failplan2020).
 
 ## Morning peak on the Peterborough line
 
