@@ -14,6 +14,6 @@ This page has a some information on specific services based on experience over t
  
 ## Evening peak on the Peterborough line
 
- - The 1806 is never advertised the day before, but apparently they try to put it back in every day.
+ - The 1806 from KGX to PBO is never advertised the day before, but apparently they try to put it back in every day.
  - The 1836 from KGX to PBO seems to run fairly reliably, with extra stops making it into a slow service (Finsbury Park, Stevenage, Hitchin, then all stops to Peterborough).
  
