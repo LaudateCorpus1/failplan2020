@@ -22,6 +22,18 @@ I've started gathering some specific examples on a [separate page](trains).
 
 GTR say they're working towards producing one for July 15th. That would be significantly cut down from the planned May 20th timetable, but if it appears would at least offer some degree of predictability.
 
+## What actually went wrong?
+
+The primary issue seems to be a lack of drivers trained to operate the new services through the Thameslink tunnels. They may also have had problems planning driver rosters for the new timetables and dealing with some changes in the depots they use.
+
+## Why can't they go back to the old timetable?
+
+Apparently it's too hard because of the connections with other operator's timetables - e.g. there aren't enough platforms at Kings Cross because East Coast are now using them. There's very little evidence they've seriously investigated this though.
+
+## Why are trains to Kings Cross cancelled on the new timetable?
+
+They're removing trains from the timetable so they can train drivers to drive through the Thameslink tunnels.
+
 ## How can I get help quickly?
 
 This is very hit and miss. You can try [Twitter](https://twitter.com/GNRailUK) but they are quite overloaded and mostly don't seem to have access to much more information than is available in the journey planners. You can phone up [customer service on 0345 026 4700](https://www.greatnorthernrail.com/help-and-support/contact-us) but I don't know how useful they would be.
