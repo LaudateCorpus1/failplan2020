@@ -66,6 +66,6 @@ The transport secretary has said there'll be some kind of one-off compensation b
 
 Often the only information available about a service delay or cancellation is "due to an operational incident". In practice this mostly means that GTR don't have a trained driver in the right place to operate the service.
 
-## I've got something else to add to this FAQ, how can I add it?
+## I've got another question or answer, how can I add it to this FAQ?
 
 [Email me](mailto:ganesh@earth.li), or if you're familiar with GitHub, send me a [pull request](https://github.com/hsenag/failplan2020).
