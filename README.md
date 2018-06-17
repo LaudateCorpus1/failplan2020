@@ -16,6 +16,8 @@ Instead they are removing trains from the "planned" timetable (i.e. the one publ
 
 In practice many trains do seem to run reliably, but the only way to guess at this is to observe what actually happens day to day.
 
+I've started gathering some specific examples on a [separate page](trains).
+
 ## When will there be an actual timetable?
 
 GTR say they're working towards producing one for July 15th. That would be significantly cut down from the planned May 20th timetable, but if it appears would at least offer some degree of predictability.
@@ -63,3 +65,7 @@ The transport secretary has said there'll be some kind of one-off compensation b
 ## What does "operational incident" mean?
 
 Often the only information available about a service delay or cancellation is "due to an operational incident". In practice this mostly means that GTR don't have a trained driver in the right place to operate the service.
+
+## I've got something else to add to this FAQ, how can I add it?
+
+[Email me](mailto:ganesh@earth.li), or if you're familiar with GitHub, send me a [pull request](https://github.com/hsenag/failplan2020).
