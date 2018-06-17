@@ -88,7 +88,20 @@ As the NAO said in January:
 
 > Having agreed in advance performance payments up to September 2018, it is not clear how the Department will incentivise performance in the franchise year from September 2017 to September 2018.
 
-Charles Horton (the CEO of GTR) has now resigned, but will apparently still be paid for his notice period.
+Charles Horton (the CEO of GTR) has now resigned, but will apparently still be paid for his notice period but only work a small part of it.
+
+## What should GTR be doing to make this better?
+
+Obviously it'd be nice if they would run a reliable timetable that was at least at the same level as the pre-May 20th timetable.
+
+Until they can do that, they should be putting a lot more effort into communicating properly:
+ - Produce a proper timetable containing the trains they can run reliably so people can plan ahead.
+ - Make sure that the trains they add at short notice are advertised properly so they don't run half-empty.
+ - Add more staff to the Twitter team and to Customer Services so they can keep up with the obvious demand given the current situation.
+
+## Should GTR lose the franchise immediately?
+
+Taking the franchise away from GTR would mean that all the operational staff would transfer to the Government. While this wouldn't immediately fix the problems, it would make it much easier to lobby politicians directly for changes and improvements. It would also show Govia and their parents Go-Ahead group and Keolis, as well as other franchise operators, that there are real penalties for failure.
 
 ## I've got another question or answer, how can I add it to this FAQ?
 
