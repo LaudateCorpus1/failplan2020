@@ -78,6 +78,18 @@ The transport secretary has said there'll be some kind of one-off compensation b
 
 Often the only information available about a service delay or cancellation is "due to an operational incident". In practice this mostly means that GTR don't have a trained driver in the right place to operate the service.
 
+## Who is going to end up paying for this mess?
+
+Mainly the government. GTR have a "management contract" to run the franchise which means all the revenue goes to the government and GTR are paid a mostly fixed fee to run the service.
+
+Although GTR should pay penalties for underperformance, in July 2017 they agreed a settlement with the Department for Transport, and "pre-paid" £10 million for any future problems up till September 2018 - see paragraph 20 of [this National Audit Office report](https://www.nao.org.uk/wp-content/uploads/2018/01/The-Thameslink-Southern-and-Great-Northern-rail-franchise.pdf).
+
+As the NAO said in January:
+
+> Having agreed in advance performance payments up to September 2018, it is not clear how the Department will incentivise performance in the franchise year from September 2017 to September 2018.
+
+Charles Horton (the CEO of GTR) has now resigned, but will apparently still be paid for his notice period.
+
 ## I've got another question or answer, how can I add it to this FAQ?
 
 [Email me](mailto:ganesh@earth.li), or if you're familiar with GitHub, send me a [pull request](https://github.com/hsenag/failplan2020).
