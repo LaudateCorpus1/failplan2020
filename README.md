@@ -24,11 +24,15 @@ GTR say they're working towards producing one for July 15th. That would be signi
 
 This is very hit and miss. You can try [Twitter](https://twitter.com/GNRailUK) but they are quite overloaded and mostly don't seem to have access to much more information than is available in the journey planners. You can phone up [customer service on 0345 026 4700](https://www.greatnorthernrail.com/help-and-support/contact-us) but I don't know how useful they would be.
 
+If you're at a station, ask the staff there or use the help points. If there's a big gap in the service, there ought to be rail replacement buses or otherwise taxis available.
+
+The railway is obliged not to leave you stranded so be insistent on getting help.
+
 Obviously none of this is the fault of the front-line staff, so please try to keep things as calm as possible and target your frustration at the company and not them personally.
 
 ## Who can I complain to?
 
-You can contact customer service by [email](mailto:customerservices@greatnorthernrail.com) or using their [contact form](https://www.greatnorthernrail.com/help-and-support/contact-us). You're unlikely to get anything but a very generic answer unless you are persistent.
+You can contact customer service by [email](mailto:customerservices@greatnorthernrail.com) or using their [contact form](https://www.greatnorthernrail.com/help-and-support/contact-us). Make sure you say you want to make a complaint, and ask for the complaint reference number. You're unlikely to get anything but a very generic answer unless you are persistent.
 
 There usually seem to be more senior managers around in the evening at Kings Cross, by the platforms 9-11 gateline. They have a bit more information but aren't actually able to fix anything.
 
@@ -38,3 +42,24 @@ You can also [contact your MP](https://www.writetothem.com/), and/or sign one of
 
  - [Remove the franchise from GTR](https://petition.parliament.uk/petitions/220440)
  - [Put back the old timetable](https://petition.parliament.uk/petitions/220566)
+ 
+ 
+## How can I get compensation?
+
+You can claim "Delay Repay" [here](https://www.greatnorthernrail.com/help-and-support/journey-problems/delay-repay-compensation/). This will get you between 25% and 100% of your ticket price back for delays of 15 minutes or over. Make sure you state the train you planned to take, not the train you actually took.
+
+If you have a First Class ticket, check if the train is declassified by the driver, or on platform displays. If it is, you can reclaim the difference [here](https://www.greatnorthernrail.com/help-and-support/journey-problems/delay-repay-compensation/first-class-claim-form).
+
+GTR claim that you need to make these claims within 28 days of the problem. If the delay is their fault, this is probably not actually true, but it'll make it a lot harder to claim if you do so after that date.
+
+If you suffer "consequential losses", e.g. being late to work and docked wages, having to get a taxi, etc, you are entitled to claim these as well. Which have a good guide to doing this [here](https://www.which.co.uk/consumer-rights/regulation/consumer-rights-act-travel-amendments). However, it's likely that GTR will be difficult about this.
+
+If you don't get an adequate response from GTR, you can try a ["chargeback"](https://www.which.co.uk/consumer-rights/advice/how-do-i-use-chargeback) with your card provider. Your rights are likely to be much stronger if you paid with a credit card. You can also [take them to court](https://www.which.co.uk/consumer-rights/advice/how-to-use-the-small-claims-court).
+
+GTR offer ["enhanced compensation"](https://www.greatnorthernrail.com/help-and-support/journey-problems/delay-repay-compensation/enhanced-compensation) for season ticket holders when you are delayed by more than 30 minutes, 12 times in a "reporting period". The current reporting period runs from 27th May to 23rd June, and then you need to claim by post within 28 days (i.e. by 21st July). The compensation doesn't look that great given the effort, either the price of a single ticket between the stations on your ticket, or two free return journeys anywhere on the network.
+
+The transport secretary has said there'll be some kind of one-off compensation but it's not been stated what that will be yet.
+
+## What does "operational incident" mean?
+
+Often the only information available about a service delay or cancellation is "due to an operational incident". In practice this mostly means that GTR don't have a trained driver in the right place to operate the service.
